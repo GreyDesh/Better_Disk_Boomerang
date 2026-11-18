@@ -1,0 +1,9 @@
+{
+  "values": [
+    "discs:copper_disc",
+    "discs:iron_disc",
+    "discs:golden_disc",
+    "discs:diamond_disc",
+    "discs:netherite_disc"
+  ]
+}

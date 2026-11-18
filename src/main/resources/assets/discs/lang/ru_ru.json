@@ -1,0 +1,13 @@
+{
+  "itemGroup.discs": "Тактические диски",
+  "item.discs.copper_disc": "Медный диск",
+  "item.discs.iron_disc": "Железный диск",
+  "item.discs.golden_disc": "Золотой диск",
+  "item.discs.diamond_disc": "Алмазный диск",
+  "item.discs.netherite_disc": "Незеритовый диск",
+  "entity.discs.disc": "Тактический диск",
+  "enchantment.discs.lumberjack": "Дровосек",
+  "enchantment.discs.bouncing": "Отскакивание",
+  "item.discs.when_thrown": "При броске:",
+  "attribute.discs.thrown_damage": "Урон при атаке"
+}

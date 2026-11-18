@@ -1,0 +1,13 @@
+{
+  "itemGroup.discs": "Tactical Discs",
+  "item.discs.copper_disc": "Copper Disc",
+  "item.discs.iron_disc": "Iron Disc",
+  "item.discs.golden_disc": "Golden Disc",
+  "item.discs.diamond_disc": "Diamond Disc",
+  "item.discs.netherite_disc": "Netherite Disc",
+  "entity.discs.disc": "Tactical Disc",
+  "enchantment.discs.lumberjack": "Lumberjack",
+  "enchantment.discs.bouncing": "Bouncing",
+  "item.discs.when_thrown": "When Thrown:",
+  "attribute.discs.thrown_damage": "Attack Damage"
+}

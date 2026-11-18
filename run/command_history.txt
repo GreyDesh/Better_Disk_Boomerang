@@ -1,0 +1,15 @@
+/summon minecraft:husk
+/summon minecraft:husk\
+/summon minecraft:husk
+/gamerule doDaylightCycle false
+/time set 0
+/summon minecraft:husk
+/fill 24 -60 1
+/fill 24 -60 1 24 -55 -8 stone
+/fill 15 -60 -8
+/fill 15 -60 -8 24 -55 -8 stone
+/fill 15 -60 1
+/fill 15 -60 1 15 -55 -8 stone
+/summon minecraft:husk
+/give @s discs:copper_disc[enchantments={levels:{'discs:bouncing':1}}]
+/summon minecraft:husk
